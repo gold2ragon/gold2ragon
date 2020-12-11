@@ -32,9 +32,6 @@ I'm a full stack developer from China with 7+ years of experience in various kin
 - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
 <p>
-  <a href="https://www.linkedin.com/in/ming-gao-96ba031b8/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://twitter.com/minggao91">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
