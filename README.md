@@ -1,3 +1,5 @@
+<p align="center"><img src="/me.jpg" alt="banner" /></p>
+
 ### Hi there, I'm Ming. Welcome to my Github page 👋
 
 I'm a full stack developer from China with 7+ years of experience in various kinds of projects. I've been worked as a freelancer on Upwork.
